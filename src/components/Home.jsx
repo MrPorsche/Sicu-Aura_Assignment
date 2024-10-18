@@ -1,6 +1,6 @@
-import React from 'react';
-import Banner from './Auth/sub-components/Banner';
-import Registration from './Auth/Registration';
+import React from "react";
+import Banner from "./Auth/sub-components/Banner";
+import Registration from "./Auth/Registration";
 
 const Home = () => {
 
